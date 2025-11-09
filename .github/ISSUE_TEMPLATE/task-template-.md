@@ -12,5 +12,6 @@ I want
 So that 
 
 ## Acceptance criteria
-- [ ] 
-- [ ]
+- [x] first critera
+- [ ] second criteria https://github.com/octo-org/octo-repo/issues/740
+- [ ] third criteria Add delight to the experience when all tasks are complete :tada:
