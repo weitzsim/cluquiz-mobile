@@ -55,7 +55,8 @@ dependencies {
     implementation(libs.koin.androidx.compose.navigation)
     implementation(libs.ktor.client.cio)
     implementation(libs.ktor.client.core)
-
+    implementation(libs.ktor.client.content.negotiation)
+    implementation(libs.ktor.client.serialization.json)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
